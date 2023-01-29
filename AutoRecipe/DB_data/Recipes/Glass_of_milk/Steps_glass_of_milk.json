@@ -1,0 +1,15 @@
+{
+	"description": "A refreshing glass of milk",
+	"step1":{
+		"step1_text": "Get the empty glass"
+	},
+	"step2":{
+		"step2_text": "Get the milk"
+	},
+	"step3":{
+		"step3_text": "Fill the glass with milk"
+	},
+	"step4":{
+		"step4_text": "Drink the milk from the glass"
+	}
+}
