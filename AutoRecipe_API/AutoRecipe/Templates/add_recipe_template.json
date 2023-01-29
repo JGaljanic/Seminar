@@ -1,0 +1,25 @@
+{
+"recipe_name": "Glass of Coca-Cola",
+"ingredients":{
+	"ingredient1": "Glass",
+	"ingredient2": "Coca-Cola"
+},
+"data":{
+	"description": "A refreshing glass of Coca-Cola",
+	"step1":{
+		"step1_text": "Get the empty glass"
+	},
+	"step2":{
+		"step2_text": "Get the Coca-Cola"
+	},
+	"step3":{
+		"step3_text": "Fill the glass with Coca-Cola"
+	},
+	"step4":{
+		"step4_text": "Drink the Coca-Cola from the glass"
+	}
+},
+"added_by" : "test1"
+}
+
+//Method: post
